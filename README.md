@@ -8,7 +8,7 @@ Despite their state-of-the-art performance on many tasks, deep neural networks h
 
 ## Related Paper
 
-<a id="1">[1]</a> 
+<a id="1" href="https://www.scitepress.org/Papers/2022/111389/111389.pdf">[1]</a> 
 Dávid Szeghy., Mahmoud Aslan., Áron Fóthi., Balázs Mészáros., Zoltán Milacski., and András Lőrincz. (2022). 
 **Structural Extensions of Basis Pursuit: Guarantees on Adversarial Robustness**
 In: Proceedings of the 3rd International Conference on Deep Learning Theory and Applications - DeLTA, INSTICC. SciTePress, 2022, pp. 77–85. isbn: 978-989-758-584-5. doi: 10.5220/0011138900003277.
