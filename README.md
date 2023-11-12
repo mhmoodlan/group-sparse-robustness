@@ -1,6 +1,6 @@
 # Extending Sparse Dictionary Learning Methods for Adversarial Robustness
 
-This repository contains the PDF of my joint MSc thesis at ELTE with Balázs Mészáros supervised by Dr. habil. András Lőrincz and Dr. Dávid Szeghy. It also contains a corresponding presentation. The code for this project is still private, once it's published it will be linked here.
+This repository contains the PDF of my joint MSc thesis with Balázs Mészáros at ELTE, supervised by Dr. habil. András Lőrincz and Dr. Dávid Szeghy. It also contains a corresponding presentation. The code for this project is still private, once it's published it will be linked here.
 
 ## Abstract
 
